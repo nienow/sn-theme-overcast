@@ -1,0 +1,15 @@
+{
+  "identifier": "dev.randombits.theme-template",
+  "name": "Theme Template",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "description": "Theme template for Standard Notes",
+  "version": "$VERSION$",
+  "url": "https://nienow.github.io/sn-theme-template/theme.css",
+  "download_url": "https://nienow.github.io/sn-theme-template/latest.zip",
+  "latest_url": "https://nienow.github.io/sn-theme-template/ext.json",
+  "dock_icon": {
+    "type": "circle",
+    "background_color": "#995555"
+  }
+}

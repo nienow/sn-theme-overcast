@@ -1,0 +1,30 @@
+{
+  "name": "sn-theme-template",
+  "version": "0.1.0",
+  "description": "",
+  "main": "dist/theme.css",
+  "scripts": {
+    "dev": "live-server --cors ./src",
+    "build": "webpack build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nienow/sn-theme-template.git"
+  },
+  "keywords": [
+    "standard-notes",
+    "theme"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nienow/sn-theme-template/issues"
+  },
+  "homepage": "https://github.com/nienow/sn-theme-template#readme",
+  "devDependencies": {
+    "copy-webpack-plugin": "^11.0.0",
+    "live-server": "^1.2.2",
+    "webpack": "^5.81.0",
+    "webpack-cli": "^5.1.4",
+    "zip-webpack-plugin": "^4.0.1"
+  }
+}

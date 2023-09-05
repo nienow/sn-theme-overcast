@@ -1,0 +1,6 @@
+{
+  "version": "$VERSION$",
+  "sn": {
+    "main:": "theme.css"
+  }
+}
