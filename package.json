@@ -1,5 +1,5 @@
 {
-  "name": "sn-theme-template",
+  "name": "sn-theme-overcast",
   "version": "0.1.0",
   "description": "",
   "main": "dist/theme.css",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nienow/sn-theme-template.git"
+    "url": "git+https://github.com/nienow/sn-theme-overcast.git"
   },
   "keywords": [
     "standard-notes",

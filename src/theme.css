@@ -1,10 +1,10 @@
 :root {
-    --background: #222222;
-    --secondary-background: #333;
-    --border-color: #777;
-    --current-line: #444;
-    --foreground: #ccc;
-    --comment: #555;
+    --background: #eee;
+    --secondary-background: #ddd;
+    --border-color: #bbb;
+    --current-line: #ccc;
+    --foreground: #333;
+    --comment: #777;
     --icon: #777;
     --icon-contrast: #555;
     --tint-1: #995555;
@@ -61,6 +61,4 @@
     --sn-desktop-titlebar-ui-hover-color: var(--highlight-color);
     --sn-stylekit-scrollbar-track-border-color: var(--comment);
     --sn-stylekit-scrollbar-thumb-color: var(--sn-stylekit-info-color);
-
-    --navigation-item-selected-background-color: var(--sn-stylekit-secondary-contrast-background-color);
 }

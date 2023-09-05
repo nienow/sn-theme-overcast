@@ -1,15 +1,15 @@
 {
-  "identifier": "dev.randombits.theme-template",
-  "name": "Theme Template",
+  "identifier": "dev.randombits.overcast",
+  "name": "Overcast Theme",
   "content_type": "SN|Theme",
   "area": "themes",
-  "description": "Theme template for Standard Notes",
+  "description": "A depressing overcast theme",
   "version": "$VERSION$",
-  "url": "https://nienow.github.io/sn-theme-template/theme.css",
-  "download_url": "https://nienow.github.io/sn-theme-template/latest.zip",
-  "latest_url": "https://nienow.github.io/sn-theme-template/ext.json",
+  "url": "https://nienow.github.io/sn-theme-overcast/theme.css",
+  "download_url": "https://nienow.github.io/sn-theme-overcast/latest.zip",
+  "latest_url": "https://nienow.github.io/sn-theme-overcast/ext.json",
   "dock_icon": {
     "type": "circle",
-    "background_color": "#995555"
+    "background_color": "#dddddd"
   }
 }
