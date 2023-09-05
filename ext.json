@@ -1,0 +1,15 @@
+{
+  "identifier": "dev.randombits.overcast",
+  "name": "Overcast Theme",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "description": "A depressing overcast theme",
+  "version": "0.1.0",
+  "url": "https://nienow.github.io/sn-theme-overcast/theme.css",
+  "download_url": "https://nienow.github.io/sn-theme-overcast/latest.zip",
+  "latest_url": "https://nienow.github.io/sn-theme-overcast/ext.json",
+  "dock_icon": {
+    "type": "circle",
+    "background_color": "#dddddd"
+  }
+}

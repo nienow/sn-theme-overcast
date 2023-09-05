@@ -1,0 +1,13 @@
+{
+  "identifier": "dev.randombits.overcast.local",
+  "name": "Overcast Theme (local)",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "description": "A depressing overcast theme (local)",
+  "version": "0.0.1",
+  "url": "http://localhost:8080/theme.css",
+  "dock_icon": {
+    "type": "circle",
+    "background_color": "#dddddd"
+  }
+}
